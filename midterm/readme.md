@@ -7,6 +7,7 @@
   * Random forest Regression
   * Decission Tree Regression
   * Suport Vector Regression(SVR) (Feature scaling)
+  * Log regression
       * Things you need to do:
         * Calculate R^2
 
